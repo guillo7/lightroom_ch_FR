@@ -1,0 +1,8 @@
+L'installation du mappage de ce clavier doit se faire à chaque mise à jour de lightroom classic CC.
+
+Marche à suivre :
+1. télécharger le fichier TranslatedStrings_Lr_fr_FR.txt
+2. via le finder, aller dans Applications puis ouvrez le dossier Lightroom Classic CC
+3. click droit sur Lightroom Classic CC et "Afficher le contenu du paquet"
+4. Aller dans "Ressources" puis "fr.lproj" et mettez y le fichier TranslatedStrings_Lr_fr_FR.txt téléchargé précèdemment
+5. Démarrez Lightroom Classic CC et testez les nouveaux raccourcis (plan de clavier à l'appui)
