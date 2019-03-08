@@ -1,0 +1,1143 @@
+[
+  {
+    "backcolor": "#ffffff",
+    "name": "Magic keyboard noir proportions retenues"
+  },
+  [
+    {
+      "c": "#000000",
+      "t": "#cccccc",
+      "fa": [
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "w": 2.55,
+      "h": 1.55
+    },
+    "Esc",
+    {
+      "x": 0.30000000000000027,
+      "fa": [
+        9,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "F1\n\n❊\n\nHelp\n\n\n\n\n\n❔",
+    {
+      "x": 0.2999999999999998,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "F2\n\n✺\n\nRenomer photo\n\n\n\n\n\n<i class='fa fa-pencil-square-o'></i>",
+    {
+      "x": 0.3000000000000007,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "F3\n\n<i class='fa fa-clone'></i>",
+    {
+      "x": 0.3000000000000007,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "F4\n\n<i class='fa fa-apple'></i>",
+    {
+      "x": 0.29999999999999893,
+      "fa": [
+        9,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "F5\n\n\n\nSél. de module\n\n\n\n\n\n<i class='fa fa-caret-square-o-up'></i>",
+    {
+      "x": 0.3000000000000007,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "F6\n\n\n\nFilm\n\n\n\n\n\n<i class='fa fa-caret-square-o-down'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n\n\n\n\n\n\n\n\n#ffa200",
+      "fa": [
+        9,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "F7\n\n<i class='fa fa-backward'></i>\n\nPanneau G\n\n\n\n\n\n<i class='fa fa-caret-square-o-left'></i>",
+    {
+      "x": 0.29999999999999893,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "F8\n\n<i class='fa fa-play'></i><i class='fa fa-pause'></i>\n\nPanneau D\n\n\n\n\n\n<i class='fa fa-caret-square-o-right'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc",
+      "w": 1.6,
+      "h": 1.55
+    },
+    "F9\n\n<i class='fa fa-forward'></i>",
+    {
+      "x": 0.29999999999999716,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "F10\n\n<i class='fa fa-volume-off'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n\n\n\n\n\n\n\n#2870fc",
+      "fa": [
+        9,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "F11\n\n<i class='fa fa-volume-down'></i>\n\n\n\n\n\n\n2 <i class='fa fa-tv'></i>",
+    {
+      "x": 0.29999999999999716,
+      "t": "#cccccc",
+      "w": 1.6,
+      "h": 1.55
+    },
+    "F12\n\n<i class='fa fa-volume-up'></i>",
+    {
+      "x": 0.29999999999999716,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "<i class='fa fa-eject'></i>"
+  ],
+  [
+    {
+      "y": 0.8500000000000001,
+      "t": "#cccccc\n\n\n\n\n\n\n\n\n#2870fc",
+      "fa": [
+        9,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        7,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "§\n\n\n\n\n\n\n\n°\n<i class='fa fa-cog'></i>\n<i class='fa fa-flag'></i>/<i class='fa fa-flag-o'></i>",
+    {
+      "x": 0.2999999999999998,
+      "t": "#cccccc\n\n#ff0000\n\n\n\n\n\n\n#2cfc28",
+      "fa": [
+        9,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        6,
+        4
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "1\n\n<i class='fa fa-play-circle'></i>\n\n\n\n\n\n+\n<i class='fa fa-table'></i>\n⭑",
+    {
+      "x": 0.2999999999999998,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "2\n\n<i class='fa fa-play-circle'></i>\n\n\n\n\n\n\"\n<i class='fa fa-connectdevelop'></i>\n⭑⭑",
+    {
+      "x": 0.2999999999999998,
+      "t": "#cccccc\n\n#ff0000\n\n\n\n#fffe09\n\n\n#2cfc28",
+      "fa": [
+        9,
+        0,
+        7,
+        0,
+        0,
+        0,
+        6,
+        0,
+        7,
+        6,
+        4
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "3\n\n<i class='fa fa-play-circle'></i>\n\n\n\n#\n\n*\n<i class='fa fa-map-o'></i>\n⭑⭑⭑",
+    {
+      "x": 0.29999999999999893,
+      "t": "#cccccc\n\n#ff0000\n\n\n\n\n\n\n#2cfc28",
+      "w": 1.6,
+      "h": 1.55
+    },
+    "4\n\n<i class='fa fa-play-circle'></i>\n\n\n\n\n\nç\n<i class='fa fa-book'></i>\n⭑⭑⭑⭑",
+    {
+      "x": 0.3000000000000007,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "5\n\n<i class='fa fa-play-circle'></i>\n\n\n\n\n\n%\n<i class='fa fa-film'></i>\n⭑⭑⭑⭑⭑",
+    {
+      "x": 0.3000000000000007,
+      "fa": [
+        9,
+        0,
+        7,
+        0,
+        0,
+        0,
+        6,
+        0,
+        7,
+        6,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "6\n\n<i class='fa fa-play-circle'></i>\n\n\n\n\n\n&\n<i class='fa fa-print'></i>\n❤️",
+    {
+      "x": 0.3000000000000007,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "7\n\n<i class='fa fa-play-circle'></i>\n\n\n\n\n\n/\n<i class='fa fa-internet-explorer'></i>\n💛",
+    {
+      "x": 0.29999999999999893,
+      "t": "#cccccc\n\n#ff0000",
+      "w": 1.6,
+      "h": 1.55
+    },
+    "8\n\n<i class='fa fa-play-circle'></i>\n\n\n\n\n\n(\n\n💚",
+    {
+      "x": 0.3000000000000007,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "9\n\n<i class='fa fa-play-circle'></i>\n\n\n\n\n\n)\n\n💙",
+    {
+      "x": 0.29999999999999716,
+      "sm": "cherry",
+      "sb": "cherry",
+      "st": "MX1A-21xx",
+      "fa": [
+        9,
+        0,
+        7,
+        0,
+        0,
+        0,
+        6,
+        0,
+        7,
+        6,
+        4
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "0\n\n<i class='fa fa-play-circle'></i>\n\n\n\n\n\n=\n\n<i class='fa fa-star-o'></i>",
+    {
+      "x": 0.29999999999999716,
+      "t": "#cccccc\n\n#2870fc",
+      "sb": "aula",
+      "st": "Blue",
+      "fa": [
+        9,
+        0,
+        7,
+        0,
+        0,
+        0,
+        6,
+        0,
+        9,
+        6,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "'\n\n<i class='fa fa-slideshare'></i>\n\nNext setting\n\n\n\n?\n\n<i class='fa fa-sliders'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc",
+      "w": 1.6,
+      "h": 1.55
+    },
+    "^\n\n\n\n\n\n\n\n`",
+    {
+      "x": 0.29999999999999716,
+      "t": "#cccccc\n\n#2870fc",
+      "fa": [
+        9,
+        0,
+        7,
+        9,
+        0,
+        0,
+        6,
+        0,
+        9,
+        6,
+        7
+      ],
+      "w": 2.55,
+      "h": 1.55
+    },
+    "\n\n<i class='fa fa-trash'></i><i class='fa fa-flag-checkered'></i>\n⇤\nSupprimer la photo"
+  ],
+  [
+    {
+      "y": 0.8500000000000001,
+      "t": "#ffffff\n\n#ff0000",
+      "fa": [
+        9,
+        0,
+        2,
+        9,
+        0,
+        0,
+        6,
+        0,
+        9,
+        7,
+        2
+      ],
+      "w": 2.56,
+      "h": 1.55
+    },
+    "⇥\n\nMasquer tous les panneaux\n\n\n\n\n\n\n<i class='fa fa-desktop'></i>\nAfficher/Masquer les panneau",
+    {
+      "x": 0.29000000000000004,
+      "t": "#cccccc\n\n#2870fc",
+      "fa": [
+        9,
+        0,
+        0,
+        9,
+        0,
+        0,
+        6,
+        0,
+        9,
+        7,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "Q\n\nQuitter\n\nPinceau\n\n\n\n\n\n<i class='fa fa-circle-o'></i>➞",
+    {
+      "x": 0.2999999999999998,
+      "t": "#cccccc\n\n2870fc",
+      "fa": [
+        9,
+        0,
+        6,
+        9,
+        0,
+        0,
+        6,
+        0,
+        9,
+        7,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "W\n\n<i class='fa fa-close'></i>\n\nBal. des blanc\n\n\n\n\n\n<i class='fa fa-eyedropper'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n#2870fc\n\n\n\n#fffe09\n#ab28fc",
+      "fa": [
+        9,
+        0,
+        7,
+        9,
+        0,
+        0,
+        6,
+        2,
+        9,
+        7,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "E\n\nPs\n\nLoupe\n\n€\nExport.\n\n\n<i class='fa fa-search-plus'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n#2870fc\n\n\n\n#2cfc28\n#ff0000",
+      "fa": [
+        9,
+        0,
+        4,
+        9,
+        0,
+        0,
+        0,
+        0,
+        9,
+        7,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "R\n\nFinder\n\nRecadrage\n\nAffiner\nRéf.\n\n\n<i class='fa fa-crop'></i>",
+    {
+      "x": 0.29999999999999893,
+      "t": "#cccccc\n\n#ff0000",
+      "fa": [
+        9,
+        0,
+        2,
+        9,
+        0,
+        0,
+        0,
+        0,
+        9,
+        7,
+        9
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "T\n\nTransfo°\n\nToolbar\n\n\n\n\n\n<i class='fa fa-wrench'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n#2870fc\n\n\n\n\n#ab28fc",
+      "fa": [
+        9,
+        0,
+        6,
+        9,
+        0,
+        0,
+        0,
+        6,
+        9,
+        7,
+        9
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "Z\n\n<i class='fa fa-mail-reply'></i>\n\nZoom\n\n\n<i class='fa fa-mail-forward'></i>\n\n\n<i class='fa fa-search'></i>",
+    {
+      "x": 0.3000000000000007,
+      "fa": [
+        9,
+        0,
+        4,
+        9,
+        0,
+        0,
+        0,
+        4,
+        9,
+        7,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "U\n\n<i class='fa fa-automobile'></i> <i class='fa fa-sliders'></i>\n\nsuppr. marque\n\n\n<i class='fa fa-automobile'></i><i class='fa fa-eyedropper'></i>\n\n\n<i class='fa fa-flag-o'></i>",
+    {
+      "x": 0.29999999999999893,
+      "t": "#cccccc\n\n#ab28fc",
+      "fa": [
+        9,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        4,
+        9,
+        7,
+        9
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "I\n\nImporter\n\nInfo\n\n\n\n\n\n<i class='fa fa-info-circle'></i>",
+    {
+      "x": 0.3000000000000007,
+      "a": 0,
+      "fa": [
+        9,
+        7,
+        6,
+        6,
+        7,
+        7,
+        0,
+        4,
+        9
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "O\n<i class='fa fa-user'></i>\n<i class='fa fa-folder-open-o'></i>\n<i class='fa fa-crop'></i><i class='fa fa-slack'></i>\nPers.\nGuide",
+    {
+      "x": 0.29999999999999716,
+      "t": "#cccccc\n\n#2870fc",
+      "a": 4,
+      "fa": [
+        9,
+        7,
+        6,
+        6,
+        0,
+        7,
+        0,
+        4,
+        9,
+        0,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "P\n\n<i class='fa fa-print'></i>\n\nRetenir\n\n\n\n\n\n<i class='fa fa-flag'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc",
+      "w": 1.6,
+      "h": 1.55
+    },
+    "é\n\n\n\n\n\n\n\nü",
+    {
+      "x": 0.29999999999999716,
+      "t": "#cccccc\n\n\n\n\n\n\n#ff0000",
+      "fa": [
+        9,
+        7,
+        6,
+        6,
+        0,
+        7,
+        0,
+        5,
+        9
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "¨\n\n\n\n\n\n\n<i class='fa fa-eraser'></i><i class='fa fa-sliders'></i>\n!",
+    {
+      "x": 0.75,
+      "t": "#cccccc",
+      "a": 6,
+      "fa": [
+        9,
+        7,
+        9
+      ],
+      "w": 1.13,
+      "h": 3.4,
+      "w2": 1.6,
+      "h2": 1.55,
+      "x2": -0.45
+    },
+    "\n\n↩︎"
+  ],
+  [
+    {
+      "y": 0.8499999999999996,
+      "t": "#cccccc\n#ff0000\n\n\n\n\n\n\n\n#ff0000",
+      "a": 4,
+      "fa": [
+        9,
+        8,
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9
+      ],
+      "w": 3.02,
+      "h": 1.55
+    },
+    "\n⇪\n\n\nAvance automatique\n\n\n\n\n<i class='fa fa-play-circle'></i>",
+    {
+      "x": 0.2799999999999998,
+      "t": "#cccccc\n\n#2870fc\n\n\n\n\n#2cfc28",
+      "fa": [
+        9,
+        8,
+        4,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        9,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "A\n\nSel. tt\n\nProportions\n\n\nSel. <i class='fa fa-flag'></i>\n\n\n<i class='fa fa-unlock-alt'></i>",
+    {
+      "x": 0.2999999999999998,
+      "t": "#cccccc\n\n#ff0000",
+      "a": 0,
+      "fa": [
+        9,
+        7,
+        5,
+        7,
+        7,
+        7,
+        0,
+        4,
+        0,
+        9,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "S\n<i class='fa fa-stack-overflow'></i>\n<i class='fa fa-refresh'></i><i class='fa fa-sliders'></i>\n<i class='fa fa-photo'></i>\nPiles\nAperçu",
+    {
+      "x": 0.29999999999999893,
+      "t": "#cccccc\n\n#2870fc",
+      "a": 4,
+      "fa": [
+        9,
+        7,
+        2,
+        7,
+        0,
+        7,
+        0,
+        4,
+        0,
+        9,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "D\n\nDéselect.\n\nDvlpmt\n\n\n\n\n\n<i class='fa fa-connectdevelop'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n#ff0000\n\n\n\n#2870fc",
+      "fa": [
+        9,
+        7,
+        5,
+        7,
+        0,
+        7,
+        5,
+        4,
+        0,
+        9,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "F\n\n≠ <i class='fa fa-arrows-alt'></i>\n\nPlein écran\n\n<i class='fa fa-search'></i>\n\n\n\n<i class='fa fa-arrows-alt'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n#2870fc\n\n\n\n#fffe09\n#ab28fc",
+      "fa": [
+        9,
+        7,
+        4,
+        7,
+        0,
+        7,
+        6,
+        4,
+        0,
+        9,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "G\n\n<i class='fa fa-stack-overflow'> </i><i class='fa fa-object-group'></i>\n\nGrille\n\n@\n<i class='fa fa-stack-overflow'> </i><i class='fa fa-object-ungroup'></i>\n\n\n<i class='fa fa-th'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n#2870fc\n\n\n\n\n#06baba",
+      "fa": [
+        9,
+        7,
+        2,
+        7,
+        0,
+        7,
+        6,
+        0,
+        0
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "H\n\nCacher LR\n\nMasquer Lr\n\n\nHDR",
+    {
+      "x": 0.29999999999999893,
+      "t": "#cccccc\n\n#2870fc",
+      "fa": [
+        9,
+        7,
+        0,
+        7,
+        0,
+        7,
+        5,
+        5,
+        0
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "J\n<i class='fa fa-eye'></i>\n<i class='fa fa-gear'></i> <i class='fa fa-eye'></i> <i class='fa fa-table'></i>\n<i class='fa fa-caret-square-o-up'></i>\nVues\n\n<i class='fa fa-th'></i>\n<i class='fa fa-connectdevelop'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n#ab28fc\n\n\n\n#2870fc",
+      "fa": [
+        9,
+        7,
+        5,
+        7,
+        0,
+        7,
+        2,
+        5,
+        0,
+        0,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "K\n\n<i class='fa fa-fire-extinguisher'></i>\n\nMasque\n\nMot clé\n\n\n\n<i class='fa fa-paint-brush'></i>",
+    {
+      "x": 0.29999999999999716,
+      "t": "#cccccc\n\n#2870fc",
+      "fa": [
+        9,
+        7,
+        5,
+        7,
+        0,
+        7,
+        2,
+        5,
+        0,
+        0,
+        9
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "L\n\n<i class='fa fa-filter'></i>\n\nLuminosité\n\n\n\n\n\n<i class='fa fa-lightbulb-o'></i>",
+    {
+      "x": 0.29999999999999716,
+      "t": "#cccccc\n\n#2870fc\n\n\n\n\n#ff0000",
+      "fa": [
+        9,
+        7,
+        5,
+        7,
+        0,
+        7,
+        2,
+        5,
+        9,
+        0,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "é\n\n<i class='fa fa-rotate-left'></i>\n\nBaisser note\n\n\n<i class='fa fa-stack-overflow'></i><i class='fa fa-level-up'></i>\nö\n\n⬊⭑",
+    {
+      "x": 0.3000000000000007,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "à\n\n<i class='fa fa-rotate-right'></i>\n\nAugmen. note\n\n\n<i class='fa fa-stack-overflow'></i><i class='fa fa-level-down'></i>\nä\n\n⬈⭑",
+    {
+      "x": 0.29999999999999716,
+      "t": "#cccccc",
+      "w": 1.6,
+      "h": 1.55
+    },
+    "$\n\n\n\n\n\n\n\n£"
+  ],
+  [
+    {
+      "y": 0.8500000000000005,
+      "c": "#ff0000",
+      "t": "#000000",
+      "f": 9,
+      "w": 2.15,
+      "h": 1.55
+    },
+    "\n⇧",
+    {
+      "x": 0.20000000000000018,
+      "c": "#000000",
+      "t": "#cccccc",
+      "f": 3,
+      "fa": [
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "<\n\n\n\nDim. réglage\n\n\n\n>\n\n<i class='fa fa-hand-o-left'></i><i class='fa fa-sliders'></i>",
+    {
+      "x": 0.2999999999999998,
+      "t": "#cccccc\n\n#fffe09\n\n\n\n#ffffff\n#2870fc",
+      "fa": [
+        9,
+        0,
+        5,
+        0,
+        0,
+        0,
+        5,
+        7,
+        9,
+        0,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "Y\n\n<i class='fa fa-arrows-v'></i>\n\nAvant-après\n\n<i class='fa fa-arrows-h'></i>\n◫\n\n\nY|Y",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n#2870fc",
+      "w": 1.6,
+      "h": 1.55
+    },
+    "X\n\n<i class='fa fa-cut'></i>\n\nRejeter\n\n\n\n\n\n<i class='fa fa-flag-checkered'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n#2870fc\n\n\n\n\n#ab28fc",
+      "fa": [
+        9,
+        0,
+        5,
+        0,
+        0,
+        0,
+        5,
+        5,
+        9,
+        0,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "C\n\n<i class='fa fa-copy'></i>\n\nComparer\n\n\n<i class='fa fa-copy'></i><i class='fa fa-sliders'></i>\n\n\nX|Y",
+    {
+      "x": 0.29999999999999893,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "V\n\n<i class='fa fa-paste'></i>\n\nNoir & blanc\n\n\n<i class='fa fa-paste'></i><i class='fa fa-sliders'></i>\n\n\n<i class='fa fa-adjust'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n#2cfc28",
+      "w": 1.6,
+      "h": 1.55
+    },
+    "B\n\n<i class='fa fa-save'></i><i class='fa fa-archive'></i>\n\nColl. rapide\n\n\n\n\n\n<i class='fa fa-archive'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n#2870fc",
+      "fa": [
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        5,
+        9,
+        0,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "N\n\nNew <i class='fa fa-archive'></i>\n\nSondage\n\n\n\n\n\n<i class=<i class='fa fa-group'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n\n\n\n\n#2870fc\n#06baba\n\n\n#ffffff",
+      "fa": [
+        9,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "M\n\n🔴\n\nFiltre gradué\n\n<i class='fa fa-download'></i>\nPANO\n\n\n⬛",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc\n\n#2cfc28\n\n\n\n\n#2870fc",
+      "fa": [
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        9,
+        0,
+        7
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    ",\n\n<i class='fa fa-search-minus'></i>\n\nZoom-\n\n\n<i class='fa fa-search-minus'></i>\n;\n\n<i class='fa fa-th'></i>",
+    {
+      "x": 0.29999999999999716,
+      "w": 1.6,
+      "h": 1.55
+    },
+    ".\n\n<i class='fa fa-search-plus'></i>\n\nZomm+\n\n\n<i class='fa fa-search-plus'></i>\n:\n\n<i class='fa fa-th-large'></i>",
+    {
+      "x": 0.3000000000000007,
+      "t": "#cccccc",
+      "w": 1.6,
+      "h": 1.55
+    },
+    "-\n\n\n\nAugm. réglage\n\n\n\n_\n\n<i class='fa fa-sliders'></i><i class='fa fa-hand-o-right'></i>",
+    {
+      "x": 0.29999999999999716,
+      "c": "#ff0000",
+      "t": "#000000",
+      "f": 9,
+      "w": 4,
+      "h": 1.55
+    },
+    "\n\n\n⇧"
+  ],
+  [
+    {
+      "y": 0.8499999999999996,
+      "c": "#ffa200",
+      "p": "FLAT",
+      "f2": 8,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "\nfn",
+    {
+      "x": 0.2999999999999998,
+      "c": "#06baba",
+      "f": 7,
+      "f2": 8,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "\n\n\ncontrol",
+    {
+      "x": 0.2999999999999998,
+      "c": "#fffe09",
+      "sm": "alps",
+      "w": 1.6,
+      "h": 1.55
+    },
+    "⌥\n\nalt\noption",
+    {
+      "x": 0.2999999999999998,
+      "c": "#2870fc",
+      "sm": "cherry",
+      "fa": [
+        0,
+        8,
+        9,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "w": 2.08,
+      "h": 1.55
+    },
+    "\n\n⌘\n\n\n\n\n\n\n\ncommand",
+    {
+      "x": 0.3199999999999994,
+      "c": "#000000",
+      "t": "#cccccc",
+      "a": 7,
+      "f": 6,
+      "w": 9.08,
+      "h": 1.55
+    },
+    "",
+    {
+      "x": 0.3999999999999986,
+      "c": "#2870fc",
+      "t": "#000000",
+      "a": 4,
+      "f": 7,
+      "fa": [
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8
+      ],
+      "w": 2.08,
+      "h": 1.55
+    },
+    "⌘\n\n\n\n\n\n\n\n\n\ncommand",
+    {
+      "x": 0.2900000000000027,
+      "c": "#fffe09",
+      "fa": [
+        8,
+        8
+      ],
+      "w": 1.6,
+      "h": 1.55
+    },
+    "alt\noption\n⌥",
+    {
+      "x": 0.3000000000000007,
+      "c": "#000000",
+      "t": "#cccccc\n\n#2870fc",
+      "f": 4,
+      "w": 1.6,
+      "h": 1.55
+    },
+    "\n\nphoto sél. préc.\n\n\n\n\n\n\n◄",
+    {
+      "x": 0.29999999999999716,
+      "w": 1.6,
+      "h": 0.75
+    },
+    "\n\n<i class='fa fa-thumbs-o-up'></i><i class='fa fa-flag-o'></i>\n\n\n\n\n\n\n▲",
+    {
+      "x": 0.29999999999999716,
+      "t": "#2870fc",
+      "w": 1.6,
+      "h": 1.55
+    },
+    "proch. photo sél\n\n\n\n\n\n\n\n\n►"
+  ],
+  [
+    {
+      "y": -0.1999999999999993,
+      "x": 23.75,
+      "t": "#cccccc\n\n\n#2870fc",
+      "w": 1.6,
+      "h": 0.75
+    },
+    "\n\n\n<i class='fa fa-thumbs-o-down'></i><i class='fa fa-flag-o'></i>\n\n\n\n\n\n▼"
+  ]
+]
